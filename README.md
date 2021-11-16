@@ -13,3 +13,7 @@ NLD: number of lines deleted
 Reproduce the output given in Table 5 of this
 [research paper](https://arxiv.org/pdf/1902.02467.pdf) for the project
 [butterknife](https://github.com/JakeWharton/butterknife).
+
+### Report
+
+Find it as [report.pdf](/report.pdf) in this repository.
